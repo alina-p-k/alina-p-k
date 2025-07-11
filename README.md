@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I’m Alina.
 
-<!--
-**alina-p-k/alina-p-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an iOS and macOS developer working with ``Swift``, ``SwiftUI`` and ``UIKit``.
 
-Here are some ideas to get you started:
+### 🔧 Tech I work with
+**Languages & Frameworks:** Swift, SwiftUI, UIKit, Combine, CryptoKit  
+**Areas:** iOS & macOS apps, Secure SDKs, BLE, REST APIs  
+**Other:** Modular architectures, clean code, and practical problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### I have experience with:
+- Cryptography (CryptoKit, Secure Enclave, CommonCrypto, CryptoSwift, BIP32, BIP39, JosySwift...)
+- BLE communication
+- iOS & macOS apps, Secure SDKs 
+- Web3, And standarts based on Web3 - like Didcomm Messaging.
+- AVfoundation, Keychain, CoreData, SwiftData, Firebase... 
+
+
+### Featured projects
+- Mijick Pockets <br>
+  https://www.mijick.com/ <br>
+  A macOS productivity app for organizing project files <br>
+  
+- Open-source Swift libraries (see pinned repositories below)
+
+
+---
+### Feel free to connect 
+email: dev.alina.petrovska@gmail.com <br>
+linkedin: https://www.linkedin.com/in/alina-p-69617a10b/
