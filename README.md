@@ -2,26 +2,27 @@
 
 I’m an iOS and macOS developer working with ``Swift``, ``SwiftUI`` and ``UIKit``.
 
-### I have experience with:
-- Cryptography (CryptoKit, Secure Enclave, CommonCrypto, CryptoSwift, BIP32, BIP39, JosySwift...)
-- BLE communication, CoreNFC
-- iOS & macOS apps, Secure SDKs 
-- Web3: DID, DIDComm Messages, Web3 Attestations & Presentations
+### Areas of Expertise
+- Cryptography: CryptoKit, Secure Enclave, CommonCrypto, CryptoSwift, BIP32/BIP39, JosySwift, and more
+- BLE Communication, CoreNFC
+- Secure SDKs & robust iOS/macOS applications 
+- Web3 technologies: DID, DIDComm Messages, Web3 Attestations & Presentations
 - Keychain, CoreData, SwiftData, Firebase, Realm
 - Combine, RxSwift, RxCocoa
-- REST Api, GraphQL, Alamofiere, Moya, MQTT
-- AVfoundation, In-App Purchase, XCTest/Testing, MacOS sandboxing, Amplify
+- REST APIs, GraphQL, Alamofire, Moya, MQTT
+- AVFoundation, In-App Purchase, XCTest/Testing, macOS sandboxing, Amplify
 
 
 ### Featured projects
-- Mijick Pockets <br>
+- **Mijick Pockets** <br>
   https://www.mijick.com/ <br>
   A macOS productivity app for organizing project files <br>
   
-- Open-source Swift libraries (see pinned repositories below)
+- **Open-source Swift libraries** <br>
+  (see pinned repositories below)
 
 
 ---
 ### Feel free to connect 
-email: dev.alina.petrovska@gmail.com <br>
-linkedin: https://www.linkedin.com/in/alina-p-69617a10b/
+- Email: dev.alina.petrovska@gmail.com <br>
+- [Linkedin](https://www.linkedin.com/in/alina-p-69617a10b/)
