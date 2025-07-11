@@ -7,7 +7,9 @@ I’m an iOS and macOS developer working with ``Swift``, ``SwiftUI`` and ``UIKit
 - BLE communication
 - iOS & macOS apps, Secure SDKs 
 - Web3, And standarts based on Web3 - like Didcomm Messaging.
-- AVfoundation, Keychain, CoreData, SwiftData, Firebase... 
+- AVfoundation, Keychain, CoreData, SwiftData, Firebase, Realm
+- Combine, RxSwift
+- REST Api, GraphQL, Alamofiere, Moya, MQTT 
 
 
 ### Featured projects
