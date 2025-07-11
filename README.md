@@ -2,12 +2,6 @@
 
 I’m an iOS and macOS developer working with ``Swift``, ``SwiftUI`` and ``UIKit``.
 
-### 🔧 Tech I work with
-**Languages & Frameworks:** Swift, SwiftUI, UIKit, Combine, CryptoKit  
-**Areas:** iOS & macOS apps, Secure SDKs, BLE, REST APIs  
-**Other:** Modular architectures, clean code, and practical problem-solving
-
-
 ### I have experience with:
 - Cryptography (CryptoKit, Secure Enclave, CommonCrypto, CryptoSwift, BIP32, BIP39, JosySwift...)
 - BLE communication
