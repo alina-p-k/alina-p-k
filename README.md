@@ -4,12 +4,13 @@ I’m an iOS and macOS developer working with ``Swift``, ``SwiftUI`` and ``UIKit
 
 ### I have experience with:
 - Cryptography (CryptoKit, Secure Enclave, CommonCrypto, CryptoSwift, BIP32, BIP39, JosySwift...)
-- BLE communication
+- BLE communication, CoreNFC
 - iOS & macOS apps, Secure SDKs 
-- Web3, And standarts based on Web3 - like Didcomm Messaging.
-- AVfoundation, Keychain, CoreData, SwiftData, Firebase, Realm
-- Combine, RxSwift
-- REST Api, GraphQL, Alamofiere, Moya, MQTT 
+- Web3: DID, DIDComm Messages, Web3 Attestations & Presentations
+- Keychain, CoreData, SwiftData, Firebase, Realm
+- Combine, RxSwift, RxCocoa
+- REST Api, GraphQL, Alamofiere, Moya, MQTT
+- AVfoundation, In-App Purchase, XCTest/Testing, MacOS sandboxing, Amplify
 
 
 ### Featured projects
