@@ -24,5 +24,4 @@ I’m an iOS and macOS developer working with ``Swift``, ``SwiftUI`` and ``UIKit
 
 ---
 ### Feel free to connect 
-- Email: dev.alina.petrovska@gmail.com <br>
 - [Linkedin](https://www.linkedin.com/in/alina-petrovska-69617a10b/)
